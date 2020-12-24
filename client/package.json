@@ -16,7 +16,7 @@
     "@freecodecamp/curriculum": "0.0.0-next.4",
     "@freecodecamp/react-bootstrap": "^0.32.3",
     "@reach/router": "^1.1.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "browser-cookies": "^1.2.0",
     "chai": "^4.2.0",
     "enzyme": "^3.6.0",
